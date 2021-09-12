@@ -1,6 +1,6 @@
 # 8weeksqlchallenge with Danny
 
-This was coded using PostgreSQLv13 through DB Fiddle.
+This was coded using PostgreSQLv13 through [DB Fiddle](https://www.db-fiddle.com/).
 
 You will find the [8 weeks challenge here](https://8weeksqlchallenge.com/).
 
